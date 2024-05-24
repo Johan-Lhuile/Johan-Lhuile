@@ -34,7 +34,7 @@
   <img src="https://consultant-webdesigner.fr/wp-content/uploads/2020/04/bootstrap_4-icon.png" alt="bootstrap" width="60" height="60">
   <img src="https://imgur.com/k4m0csO.png" alt="TailwindCSS" width="60" height="60">
   <img src="https://symfony.com/logos/symfony_black_03.svg" alt="Symfony" width="60" height="60">
-  <img src="https://fr.wikipedia.org/wiki/Tux#/media/Fichier:Tux.svg" alt="Tux" width="60" height="60">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="Tux" width="60" height="60">
 
 
 
