@@ -9,7 +9,7 @@
 
 # 📝 A propos de moi
 
-### 👨‍💻 Actuellement, je developpe mes connaissances en infra (HomeLab, Try Hack Me).
+### 👨‍💻 Actuellement, je développe mes connaissances (HomeLab, Try Hack Me, livres).
 
 ### Ecole 2600 CyberSecurité de Septembre 2024 à Juin 2027
 
