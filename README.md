@@ -15,7 +15,7 @@
 
 ### 📚 Mes objectifs: Blue Team --> Red Team
 
-### 🔍 Je recherche un poste d'analyste SOC pour mon alternance (septembre 2024) sur un rythme de 4 semaines entreprise et 2 semaines de formatioon.
+### 🔍 Je recherche un poste d'analyste SOC pour mon alternance (septembre 2024) sur un rythme de 4 semaines entreprise et 2 semaines de formation.
 
 ### 📧 Vous pouvez me contacter à cette adresse : [contact@gmail.com](mailto:lhuilejohan85@gmail.com).
 
