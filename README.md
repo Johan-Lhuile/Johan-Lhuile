@@ -36,7 +36,7 @@
   <img src="https://symfony.com/logos/symfony_black_03.svg" alt="Symfony" width="60" height="60">
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="Tux" width="60" height="60">
   <img src="https://albertoestrada.es/wp-content/uploads/2023/02/burp-suite-logo.png" alt="BurpSuite" width="60" height="60">
-  <img src="https://raw.githubusercontent.com/ThePorgs/Exegol-docs/main/.assets/rounded_social_preview.png" alt="Exegol" width="80" height="60">
+  <img src="https://raw.githubusercontent.com/ThePorgs/Exegol-docs/main/.assets/rounded_social_preview.png" alt="Exegol" width="100" height="60">
 
 
 
