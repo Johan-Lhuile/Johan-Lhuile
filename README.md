@@ -9,11 +9,11 @@
 
 # 📝 A propos de moi
 
-### 👨‍💻 Actuellement, je developpe un projet personnel avec Symfony.
+### 👨‍💻 Actuellement, je developpe mes connaissances en infra (HomeLab, Try Hack Me).
 
-### 📚 Mes objectifs: Symfony et VueJS
+### 📚 Mes objectifs: Blue Team --> Red Team
 
-### 🔍 Je recherche une entreprise avec un poste de developpeur Back-end PHP Symfony.
+### 🔍 Je recherche un poste d'analyste SOC pour mon alternance (septembre 2024).
 
 ### 📧 Vous pouvez me contacter à cette adresse : [contact@gmail.com](mailto:lhuilejohan85@gmail.com).
 
