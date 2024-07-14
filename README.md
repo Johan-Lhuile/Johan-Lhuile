@@ -13,9 +13,9 @@
 
 ### Ecole 2600 CyberSecurité de Septembre 2024 à Juin 2027
 
-### 📚 Mes objectifs: Blue Team --> Red Team
+### 📚 Mes objectifs: Red Team / Pentest
 
-### 🔍 Je recherche un poste d'analyste SOC pour mon alternance (septembre 2024) sur un rythme de 4 semaines entreprise et 2 semaines de formation.
+### 🔍 Je recherche un poste de développeur pour mon alternance (septembre 2024) sur un rythme de 4 semaines entreprise et 2 semaines de formation.
 
 ### 📧 Vous pouvez me contacter à cette adresse : [contact@gmail.com](mailto:lhuilejohan85@gmail.com).
 
